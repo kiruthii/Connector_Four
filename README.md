@@ -35,13 +35,13 @@ To run this project, you'll need a modern web browser such as Chrome, Firefox, o
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/connect-four.git
+    git clone https://github.com/kiruthii/Connector_Four.git
     ```
 
 2. **Navigate to the project directory:**
 
     ```bash
-    cd connect-four
+    cd Connector_Four
     ```
 
 3. **Open the `index.html` file in your web browser:**
